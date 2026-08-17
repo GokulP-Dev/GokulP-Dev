@@ -1,18 +1,20 @@
 <div align="center">
 
-# Hi there 👋, I'm Gokul P
+# 🚀 Hello World, I'm Gokul P!
 
-### **Full Stack Developer | Python & React**
+### **Full Stack Developer | Python & React Enthusiast**
 
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science%20and%20Design-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Chennai,%20India-4C1D95?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Science%20%26%20Design-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20In-Chennai%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-<br/>
-
-<a href="https://linkedin.com/in/gokul-p-044a46315"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gokulpalanivel412@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/GokulP-Dev"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/gokul-p-044a46315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gokulpalanivel412@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/GokulP-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -22,51 +24,56 @@
 
 Motivated Computer Science and Design graduate from Sethu Institute of Technology with hands-on web development experience[cite: 1]. Skilled in building responsive, user-friendly applications with a strong foundation in Python and frontend technologies[cite: 1]. Passionate about writing clean code and solving real-world problems through efficient software solutions[cite: 1].
 
-- **Education:** B.E. Computer Science and Design
-- **Core Stack:** Python, Django, React.js, JavaScript, HTML5, CSS3
-- **Mindset:** Learn → Build → Share → Improve
+- 🎯 **Core Stack:** Python, Django, React.js, JavaScript, HTML5, CSS3
+- 💡 **Mindset:** Learn → Build → Share → Improve
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-- **Programming Languages:** Python, JavaScript, HTML5, CSS3
-- **Frontend:** React.js, Bootstrap, Responsive Design
-- **Backend & Database:** Django, REST API, MySQL
-- **Tools & Version Control:** Git, GitHub, VS Code, Firebase, Netlify
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming** | Python, JavaScript, HTML5, CSS3[cite: 1] |
+| **Frontend** | React.js, Bootstrap, Responsive Web Design[cite: 1] |
+| **Backend & DB** | Django, REST APIs, MySQL[cite: 1] |
+| **Tools & Cloud** | Git, GitHub, VS Code, Firebase, Netlify[cite: 1] |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Aatthi — Organic Spices E-Commerce Website
-- **Description:** Designed and developed a fully responsive e-commerce platform for an organic spices brand using HTML, CSS, and JavaScript[cite: 1]. Features product category filtering, customer reviews, WhatsApp integration, and a multi-page layout[cite: 1].
-- **Tech Stack:** HTML, CSS, JavaScript, Netlify[cite: 1]
+### 🌟 01. Aatthi — Organic Spices E-Commerce Website
+- **Overview:** Designed and developed a fully responsive e-commerce platform for an organic spices brand using HTML, CSS, and JavaScript[cite: 1].
+- **Key Features:** Product category filtering, customer reviews, WhatsApp-integrated contact features, and multi-page layout deployed on Netlify[cite: 1].
+- **Tech Stack:** `HTML` `CSS` `JavaScript` `Netlify`[cite: 1]
 
-### 2. NeuroNavi — Therapeutic Adventure Game
-- **Description:** Co-authored an IEEE research paper proposing a 3D low-poly adventure game as a cognitive-assistive platform for neurodiverse users (dyslexia, ADHD, and early-stage memory decline)[cite: 1]. Includes observation-driven gameplay and behavioral analytics[cite: 1].
-- **Tech Stack:** Python, 3D Game Engine, Analytics Framework[cite: 1]
+### 🌟 02. NeuroNavi — Therapeutic Adventure Game
+- **Overview:** Co-authored an IEEE research paper proposing a 3D low-poly adventure game as a cognitive-assistive platform for neurodiverse users (dyslexia, ADHD traits, early memory decline)[cite: 1].
+- **Key Features:** Observation-driven gameplay mechanics targeting spatial awareness, attention stability, and a behavioral analytics framework[cite: 1].
+- **Tech Stack:** `Python` `3D Game Engine` `Analytics Framework`[cite: 1]
 
-### 3. Full Stack Web Applications (CodSoft Internship)
-- **Description:** Developed multiple responsive web applications focusing on clean design, cross-browser compatibility, and version control collaboration via Git and GitHub[cite: 1].
-- **Tech Stack:** HTML5, CSS3, JavaScript, Git, GitHub[cite: 1]
+### 🌟 03. Web Development Internship Projects (CodSoft)
+- **Overview:** Developed multiple responsive web applications during a one-month internship with CodSoft[cite: 1].
+- **Key Features:** Clean design implementation, cross-browser compatibility, and version control collaboration via Git and GitHub[cite: 1].
+- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Git` `GitHub`[cite: 1]
 
 ---
 
-## 🌱 Current Focus & Goals
+## 📈 GitHub Stats & Activity
 
-- **Currently Learning:** Python Full Stack Development & Advanced Django REST Framework[cite: 1]
-- **Goal:** Build scalable software solutions and secure a professional Full Stack Developer role.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GokulP-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16,1b22&title_color=a78bfa&icon_color=a78bfa" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulP-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=16,1b22&title_color=a78bfa" width="48%" />
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect & Build Together!
 
-<a href="https://linkedin.com/in/gokul-p-044a46315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gokulpalanivel412@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/GokulP-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gokul-p-044a46315"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gokulpalanivel412@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 > *"Keep Building. Keep Learning. Keep Growing."*
