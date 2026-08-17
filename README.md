@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Motivated Computer Science and Design graduate from Sethu Institute of Technology with hands-on web development experience[cite: 1]. Skilled in building responsive, user-friendly applications with a strong foundation in Python and frontend technologies[cite: 1]. Passionate about writing clean code and solving real-world problems through efficient software solutions[cite: 1].
+Motivated Computer Science and Design graduate from Sethu Institute of Technology with hands-on web development experience. Skilled in building responsive, user-friendly applications with a strong foundation in Python and frontend technologies. Passionate about writing clean code and solving real-world problems through efficient software solutions.
 
 - 🎯 **Core Stack:** Python, Django, React.js, JavaScript, HTML5, CSS3
 - 💡 **Mindset:** Learn → Build → Share → Improve
@@ -33,37 +33,38 @@ Motivated Computer Science and Design graduate from Sethu Institute of Technolog
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Programming** | Python, JavaScript, HTML5, CSS3[cite: 1] |
-| **Frontend** | React.js, Bootstrap, Responsive Web Design[cite: 1] |
-| **Backend & DB** | Django, REST APIs, MySQL[cite: 1] |
-| **Tools & Cloud** | Git, GitHub, VS Code, Firebase, Netlify[cite: 1] |
+| **Programming** | Python, JavaScript, HTML5, CSS3 |
+| **Frontend** | React.js, Bootstrap, Responsive Web Design |
+| **Backend & DB** | Django, REST APIs, MySQL |
+| **Tools & Cloud** | Git, GitHub, VS Code, Firebase, Netlify |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌟 01. Aatthi — Organic Spices E-Commerce Website
-- **Overview:** Designed and developed a fully responsive e-commerce platform for an organic spices brand using HTML, CSS, and JavaScript[cite: 1].
-- **Key Features:** Product category filtering, customer reviews, WhatsApp-integrated contact features, and multi-page layout deployed on Netlify[cite: 1].
-- **Tech Stack:** `HTML` `CSS` `JavaScript` `Netlify`[cite: 1]
+- **Overview:** Designed and developed a fully responsive e-commerce platform for an organic spices brand using HTML, CSS, and JavaScript.
+- **Key Features:** Product category filtering, customer reviews, WhatsApp-integrated contact features, and multi-page layout deployed on Netlify.
+- **Tech Stack:** `HTML` `CSS` `JavaScript` `Netlify`
 
 ### 🌟 02. NeuroNavi — Therapeutic Adventure Game
-- **Overview:** Co-authored an IEEE research paper proposing a 3D low-poly adventure game as a cognitive-assistive platform for neurodiverse users (dyslexia, ADHD traits, early memory decline)[cite: 1].
-- **Key Features:** Observation-driven gameplay mechanics targeting spatial awareness, attention stability, and a behavioral analytics framework[cite: 1].
-- **Tech Stack:** `Python` `3D Game Engine` `Analytics Framework`[cite: 1]
+- **Overview:** Co-authored an IEEE research paper proposing a 3D low-poly adventure game as a cognitive-assistive platform for neurodiverse users (dyslexia, ADHD traits, early memory decline).
+- **Key Features:** Observation-driven gameplay mechanics targeting spatial awareness, attention stability, and a behavioral analytics framework.
+- **Tech Stack:** `Python` `3D Game Engine` `Analytics Framework`
 
 ### 🌟 03. Web Development Internship Projects (CodSoft)
-- **Overview:** Developed multiple responsive web applications during a one-month internship with CodSoft[cite: 1].
-- **Key Features:** Clean design implementation, cross-browser compatibility, and version control collaboration via Git and GitHub[cite: 1].
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Git` `GitHub`[cite: 1]
+- **Overview:** Developed multiple responsive web applications during a one-month internship with CodSoft.
+- **Key Features:** Clean design implementation, cross-browser compatibility, and version control collaboration via Git and GitHub.
+- **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Git` `GitHub`
 
 ---
 
-## 📈 GitHub Stats & Activity
+## ⚡ GitHub Activity & Badges
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokulP-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16,1b22&title_color=a78bfa&icon_color=a78bfa" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulP-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=16,1b22&title_color=a78bfa" width="48%" />
+  <img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
 </div>
 
 ---
